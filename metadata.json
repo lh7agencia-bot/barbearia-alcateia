@@ -1,0 +1,6 @@
+{
+  "name": "Barbearia Alcateia",
+  "description": "Barbearia Alcateia — Onde o homem se sente bem. Cortes clássicos, barba completa e hidratação facial em Goiás - GO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
